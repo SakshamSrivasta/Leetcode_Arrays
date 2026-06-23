@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0392-is-subsequence) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1833-maximum-ice-cream-bars) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2287-rearrange-characters-to-make-target-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
