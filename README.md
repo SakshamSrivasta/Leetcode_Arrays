@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0724-find-pivot-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1840-maximum-building-height) |
 | [2239-find-closest-number-to-zero](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2239-find-closest-number-to-zero) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0724-find-pivot-index) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
