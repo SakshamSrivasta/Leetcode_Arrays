@@ -6,7 +6,5 @@ class Solution:
                 closest=x
         if closest<0 and abs(closest) in nums:
             return abs(closest)
-        else:
+        else: 
             return closest
-
-        
