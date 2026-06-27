@@ -6,7 +6,7 @@ class Solution:
             remaining=target - nums[i]
             if remaining in dictt:
                 return [dictt[remaining],i]
-            else:
-                dictt[nums[i]]=i
+            dictt[nums[i]]=i
+                
 
         
