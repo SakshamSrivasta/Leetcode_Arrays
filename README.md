@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1840-maximum-building-height) |
 | [2239-find-closest-number-to-zero](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2239-find-closest-number-to-zero) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
