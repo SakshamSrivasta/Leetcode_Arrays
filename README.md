@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0042-trapping-rain-water) |
+| [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0724-find-pivot-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1833-maximum-ice-cream-bars) |
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1840-maximum-building-height) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1840-maximum-building-height) |
 ## Greedy
@@ -96,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
