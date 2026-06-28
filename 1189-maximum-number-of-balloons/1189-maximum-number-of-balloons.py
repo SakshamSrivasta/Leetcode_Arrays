@@ -1,12 +1,14 @@
 class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
-        counter=defaultdict(int)
-        balloon='balloon'
+        dictt=defaultdict(int)
+        balloon="balloon"
         for c in text:
             if c in balloon:
-                counter[c]+=1
-        if any(c not in counter for c in balloon):
+                dictt[c]+=1
+        if any(c not in dictt for c in balloon):
             return 0
         else:
-            return min(counter['b'],counter['a'],counter['n'],counter['l']//2,counter['o']//2)
+            return min(dictt['b'],dictt['a'],dictt['l']//2,dictt['o']//2,dictt['n'])
+
+
         
