@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2239-find-closest-number-to-zero](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2239-find-closest-number-to-zero) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -136,4 +138,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
