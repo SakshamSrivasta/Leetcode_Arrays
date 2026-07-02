@@ -1,5 +1,6 @@
 class Solution:
     def maxIceCream(self, costs, coins):
+        #GREEDY APPROACG
         # dictt={}
         # for i in range(len(costs)):
         #     if costs[i] in dictt:
@@ -13,6 +14,7 @@ class Solution:
         #     coins-=buy*price
         # return count
 
+        #COUNTING SORT APPROACH AS PER Q
         dictt={}
         for c in costs:
             dictt[c]=dictt.get(c,0)+1
