@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0724-find-pivot-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1840-maximum-building-height) |
