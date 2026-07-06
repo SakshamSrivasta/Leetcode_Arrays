@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0189-rotate-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0242-valid-anagram) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
