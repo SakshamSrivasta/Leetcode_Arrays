@@ -6,7 +6,6 @@ class Solution:
             for j in range(m):
                 if haystack[i+j]!=needle[j]:
                     break
-                if j==m-1:
+                if j==len(needle)-1:
                     return i
         return -1
-        
