@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1840-maximum-building-height) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -223,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
