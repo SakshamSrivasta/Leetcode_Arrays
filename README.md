@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0724-find-pivot-index) |
 | [1288-remove-covered-intervals](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1796-second-largest-digit-in-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
