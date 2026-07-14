@@ -1,24 +1,36 @@
 class Solution:
     def subsequencePairCount(self, nums: List[int]) -> int:
         MOD = 10 ** 9 + 7
-        n = len(nums)
 
-        @lru_cache(None)
-        def solve(idx, g1, g2):
-            if idx == n:
-                return 1 if g1 != 0 and g1 == g2 else 0
+        cur = [[0] * 201 for _ in range(201)]
+        cur[0][0] = 1
 
-            # Ignore current element
-            ans = solve(idx + 1, g1, g2)
+        for x in nums:
+            nxt = [[0] * 201 for _ in range(201)]
 
-            # Put in seq1
-            ng1 = nums[idx] if g1 == 0 else gcd(g1, nums[idx])
-            ans = (ans + solve(idx + 1, ng1, g2)) % MOD
+            for g1 in range(201):
+                for g2 in range(201):
 
-            # Put in seq2
-            ng2 = nums[idx] if g2 == 0 else gcd(g2, nums[idx])
-            ans = (ans + solve(idx + 1, g1, ng2)) % MOD
+                    if cur[g1][g2] == 0:
+                        continue
 
-            return ans
+                    ways = cur[g1][g2]
 
-        return solve(0, 0, 0)
+                    # Ignore
+                    nxt[g1][g2] = (nxt[g1][g2] + ways) % MOD
+
+                    # Put in seq1
+                    ng1 = x if g1 == 0 else gcd(g1, x)
+                    nxt[ng1][g2] = (nxt[ng1][g2] + ways) % MOD
+
+                    # Put in seq2
+                    ng2 = x if g2 == 0 else gcd(g2, x)
+                    nxt[g1][ng2] = (nxt[g1][ng2] + ways) % MOD
+
+            cur = nxt
+
+        ans = 0
+        for g in range(1, 201):
+            ans = (ans + cur[g][g]) % MOD
+
+        return ans
