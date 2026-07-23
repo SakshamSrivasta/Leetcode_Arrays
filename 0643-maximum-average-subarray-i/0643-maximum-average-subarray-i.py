@@ -9,4 +9,3 @@ class Solution:
             window_avg-=nums[i-k]
             max_avg=max(max_avg,window_avg)
         return max_avg/k
-        
