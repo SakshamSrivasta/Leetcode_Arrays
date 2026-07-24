@@ -6,6 +6,8 @@ class Solution:
             if s[ch] in vowels:
                 vowel_count+=1
         max_vowel=vowel_count
+        if max_vowel==k:
+            return k
         for ch in range(k,len(s)):
             if s[ch] in vowels:
                 vowel_count+=1
