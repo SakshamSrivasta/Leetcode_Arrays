@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1189-maximum-number-of-balloons) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1358-number-of-substrings-containing-all-three-characters) |
