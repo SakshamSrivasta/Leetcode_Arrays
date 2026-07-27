@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2239-find-closest-number-to-zero](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2239-find-closest-number-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1796-second-largest-digit-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
