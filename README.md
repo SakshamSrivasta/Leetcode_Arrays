@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2000-reverse-prefix-of-word) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2129-capitalize-the-title) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
