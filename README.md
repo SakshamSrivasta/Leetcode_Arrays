@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2129-capitalize-the-title](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2129-capitalize-the-title) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2810-faulty-keyboard](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2810-faulty-keyboard) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3499-maximize-active-section-with-trade-i) |
