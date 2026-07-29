@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2810-faulty-keyboard](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2810-faulty-keyboard) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2810-faulty-keyboard](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2810-faulty-keyboard) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
