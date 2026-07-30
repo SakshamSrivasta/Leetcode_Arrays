@@ -15,16 +15,6 @@ class Solution:
             right-=1
         return ''.join(wor)
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         #USING JUST SLICING
         # if ch not in word:
         #     return word
