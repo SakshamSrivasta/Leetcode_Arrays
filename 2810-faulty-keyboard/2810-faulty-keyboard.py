@@ -2,9 +2,8 @@ class Solution:
     def finalString(self, s: str) -> str:
         res=[]
         for ch in s:
-            if ch=="i":
+            if ch =="i":
                 res=res[::-1]
             else:
                 res.append(ch)
-        return ''.join(res)
-        
+        return "".join(res)
