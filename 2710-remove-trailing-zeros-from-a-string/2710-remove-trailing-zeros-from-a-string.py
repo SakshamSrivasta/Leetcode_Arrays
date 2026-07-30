@@ -1,15 +1,16 @@
 class Solution:
     def removeTrailingZeros(self, num: str) -> str:
-        n=len(num)
-        m=n-1
-        len_trailing_zeroes=0
-        while (m>=0):
-            if num[m]=="0":
-                len_trailing_zeroes+=1
+        m=len(num)
+        n=m-1
+        trailing_zeroes=0
+        while n>=0:
+            if num[n]=="0":
+                trailing_zeroes+=1
             else:
                 break
-            m-=1
-        return num[:n-len_trailing_zeroes]
+            n-=1
+        return num[:m-trailing_zeroes]
+                
 
 
 
