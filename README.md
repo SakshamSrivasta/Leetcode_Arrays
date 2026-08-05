@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -410,4 +413,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1406-stone-game-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
