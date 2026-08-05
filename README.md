@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1672-richest-customer-wealth) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3737-count-subarrays-with-majority-element-i) |
