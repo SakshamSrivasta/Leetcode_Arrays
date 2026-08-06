@@ -15,26 +15,8 @@ class Solution:
         #  return ans
 
         #OPTIMAL- MONOTONIC DECREASING DEQUE
-        # dq=deque()
-        # ans=[]
-        # for i in range(len(nums)):
-        #     while dq and dq[0]<=i-k:
-        #         dq.popleft()
-        #     while dq and nums[i]>nums[dq[-1]]:
-        #         dq.pop()
-        #     dq.append(i)
-        #     if i>=k-1:
-        #         ans.append(nums[dq[0]])
-        # return ans
-
-
-
-
-
-
-
-        dq=deque()
         ans=[]
+        dq=deque()
         for i in range(len(nums)):
             while dq and dq[0]<=i-k:
                 dq.popleft()
@@ -44,6 +26,14 @@ class Solution:
             if i>=k-1:
                 ans.append(nums[dq[0]])
         return ans
+            
+
+
+
+
+
+
+
 
     
 
