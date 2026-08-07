@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0219-contains-duplicate-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0219-contains-duplicate-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1512-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1833-maximum-ice-cream-bars) |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -436,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
