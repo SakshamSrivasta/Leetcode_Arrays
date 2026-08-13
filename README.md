@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2239-find-closest-number-to-zero](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2239-find-closest-number-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2129-capitalize-the-title) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2278-percentage-of-letter-in-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -481,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
