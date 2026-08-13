@@ -7,9 +7,9 @@ class Solution:
             if dictt[key]==2:
                 repeating_number=key
         n=len(nums)
-        s1=(n*(n+1))/2
+        s1=(n*(n+1))//2
         s2=sum(nums)-repeating_number
-        return [repeating_number,int(s1-s2)]
+        return [repeating_number,s1-s2]
 
 
         #         dictt={}
