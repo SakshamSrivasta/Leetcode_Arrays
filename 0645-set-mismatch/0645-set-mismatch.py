@@ -7,9 +7,32 @@ class Solution:
             if dictt[key]==2:
                 repeating_number=key
         n=len(nums)
-        s1=(n*(n+1))//2
-        s2=sum(nums)-repeating_number
-        return [repeating_number,s1-s2]
+        s1=n*(n+1)//2
+        s2=sum(nums)
+        return[repeating_number,(s1-s2)+repeating_number]
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        # dictt={}
+        # for c in nums:
+        #     dictt[c]=dictt.get(c,0)+1
+        # for key in dictt:
+        #     if dictt[key]==2:
+        #         repeating_number=key
+        # n=len(nums)
+        # s1=(n*(n+1))//2
+        # s2=sum(nums)-repeating_number
+        # return [repeating_number,s1-s2]
 
 
         #         dictt={}
