@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1189-maximum-number-of-balloons) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0796-rotate-string) |
 ## Recursion
 |  |
 | ------- |
