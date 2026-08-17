@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1528-shuffle-string) |
+| [1563-stone-game-v](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1563-stone-game-v) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1816-truncate-sentence) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2029-stone-game-ix) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2029-stone-game-ix) |
 ## Queue
 |  |
