@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2810-faulty-keyboard](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2810-faulty-keyboard) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
