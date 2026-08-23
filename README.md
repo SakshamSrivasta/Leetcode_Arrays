@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4027-elevator-requests-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/4027-elevator-requests-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3699-number-of-zigzag-arrays-i) |
+| [4027-elevator-requests-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/4027-elevator-requests-iii) |
 ## Stack
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4027-elevator-requests-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/4027-elevator-requests-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4027-elevator-requests-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/4027-elevator-requests-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -528,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bitmask
+|  |
+| ------- |
+| [4027-elevator-requests-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/4027-elevator-requests-iii) |
 <!---LeetCode Topics End-->
