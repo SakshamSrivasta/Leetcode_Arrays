@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4024-nearest-available-drone](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4027-elevator-requests-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/4027-elevator-requests-iii) |
 ## Two Pointers
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [4024-nearest-available-drone](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/4024-nearest-available-drone) |
 ## Sliding Window
 |  |
 | ------- |
