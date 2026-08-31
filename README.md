@@ -575,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4027-elevator-requests-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/4027-elevator-requests-iii) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
