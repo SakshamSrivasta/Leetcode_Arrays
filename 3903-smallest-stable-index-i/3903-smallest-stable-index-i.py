@@ -12,5 +12,6 @@ class Solution:
             mx = max(mx, x)
             if mx - suf[i] <= k:
                 return i
+                break
 
         return -1
