@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1189-maximum-number-of-balloons) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1406-stone-game-iii) |
