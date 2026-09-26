@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1840-maximum-building-height) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1927-sum-game) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
