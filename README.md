@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3099-harshad-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3099-harshad-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
