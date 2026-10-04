@@ -1,7 +1,15 @@
 class Solution:
     def sumOfTheDigitsOfHarshadNumber(self, x: int) -> int:
-        if x<10:
-            return x
-        digit_sum=sum(int(digit) for digit in str(x))
+        # if x<10:
+        #     return x
+        # digit_sum=sum(int(digit) for digit in str(x))
+        # return digit_sum if x%digit_sum==0 else -1
+
+        #no string conversion
+        temp=x
+        digit_sum=0
+        while temp>0:
+            digit_sum+=temp%10
+            temp//=10
         return digit_sum if x%digit_sum==0 else -1
         
