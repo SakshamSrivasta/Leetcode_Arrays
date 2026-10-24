@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2315-count-asterisks](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2315-count-asterisks) |
+| [2409-count-days-spent-together](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2810-faulty-keyboard) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2409-count-days-spent-together) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/3099-harshad-number) |
