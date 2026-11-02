@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0628-maximum-product-of-three-numbers) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0628-maximum-product-of-three-numbers) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1096-brace-expansion-ii) |
