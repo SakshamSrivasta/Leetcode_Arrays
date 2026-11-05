@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1406-stone-game-iii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0392-is-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2000-reverse-prefix-of-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1833-maximum-ice-cream-bars) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2089-find-target-indices-after-sorting-array) |
