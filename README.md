@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2129-capitalize-the-title) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/2243-calculate-digit-sum-of-a-string) |
