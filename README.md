@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1510-stone-game-iv) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -869,4 +872,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SakshamSrivasta/Leetcode_Arrays/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
